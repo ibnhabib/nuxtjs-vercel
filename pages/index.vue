@@ -3,25 +3,25 @@
     <div>
       <logo />
       <h1 class="title">
-        nuxtjs
+        Postadrop
       </h1>
       <h2 class="subtitle">
-        My astonishing Nuxt.js project
+        Post A drop Delivery project
       </h2>
       <div class="links">
         <a
-          href="https://nuxtjs.org/"
+          href="https://ukargo.com/"
           target="_blank"
           class="button--green"
         >
-          Documentation
+          Local Delivery Services
         </a>
         <a
           href="https://github.com/nuxt/nuxt.js"
           target="_blank"
           class="button--grey"
         >
-          GitHub
+          International Delivery Services
         </a>
       </div>
     </div>
