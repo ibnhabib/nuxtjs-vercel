@@ -18,7 +18,7 @@
         </a>
         <a
           href="/international-delivery"
-          target="_blank"
+          target="_parent"
           class="button--grey"
         >
           International Delivery Services
