@@ -3,10 +3,10 @@
     <div>
       <logo />
       <h1 class="title">
-        Postadrop
+        International Delivery
       </h1>
       <h2 class="subtitle">
-        Post A drop Delivery project
+        International Delivery Project
       </h2>
       <div class="links">
         <a
@@ -17,7 +17,7 @@
           Local Delivery Services
         </a>
         <a
-          href="/international-delivery"
+          href="international-delivery"
           target="_blank"
           class="button--grey"
         >
