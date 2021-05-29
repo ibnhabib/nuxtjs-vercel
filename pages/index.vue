@@ -11,14 +11,14 @@
       <div class="links">
         <a
           href="https://ukargo.com/"
-          target="_blank"
+          target="_parent"
           class="button--green"
         >
           Local Delivery Services
         </a>
         <a
           href="/international-delivery"
-          target="_parent"
+          target="_self"
           class="button--grey"
         >
           International Delivery Services
