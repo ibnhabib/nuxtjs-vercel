@@ -1,12 +1,13 @@
 {
   "name": "nuxtjs",
   "version": "1.0.0",
-  "description": "My astonishing Nuxt.js project",
-  "author": "msweeneydev",
+  "description": "My Nuxt.js project",
+  "author": "Amir Habib",
   "private": true,
   "scripts": {
     "dev": "nuxt",
-    "build": "nuxt generate",
+    "generate": "nuxt generate",
+    "build": "nuxt build",
     "start": "nuxt start"
   },
   "dependencies": {
